@@ -17,19 +17,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://t.me/millionerMIN](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' > ](https://t.me/millionerMIN)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          3 hrs 31 mins   ███████████████░░░░░░░░░░   59.54 % 
-JavaScript   2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.46 % 
-CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-```
-<!--END_SECTION:waka-->
 
