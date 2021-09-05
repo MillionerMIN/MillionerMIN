@@ -21,5 +21,9 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 
+JSX          3 hrs 31 mins   ███████████████░░░░░░░░░░   59.54 % 
+JavaScript   2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.46 % 
+CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 
