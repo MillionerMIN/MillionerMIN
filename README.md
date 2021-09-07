@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Vladimir Liankevich**!
-## I'm beginner *Front-end developer* from Minsk, Belarus.
+## I'm *Front-end developer* from Minsk, Belarus.
 ###Check my website:----------
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,4 +25,4 @@
 "You may say I'm a dreamer <br>
  But I'm not the only one<br>
  I hope someday you'll join us<br>
- And the world will be as one." -John Lennon
+ And the world will be as one." *-John Lennon*
