@@ -22,7 +22,7 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 
-"You may say I'm a dreamer
-But I'm not the only one
-I hope someday you'll join us
+"You may say I'm a dreamer <br>
+But I'm not the only one<br>
+I hope someday you'll join us<br>
 And the world will be as one." -John Lennon
