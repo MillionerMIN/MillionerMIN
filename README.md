@@ -27,3 +27,4 @@
  I hope someday you'll join us<br>
  And the world will be as one." *-John Lennon*
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/millionermin=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=millionermin)](https://github.com/anuraghazra/github-readme-stats)
